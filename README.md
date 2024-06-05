@@ -4,7 +4,7 @@ Datasets can be found here: https://github.com/data-bootcamp-v4/lessons/tree/mai
 
 ## Project Overview
 
-This project evaluates the effectiveness of a new user interface (UI) design implemented by Vanguard, a financial services company, using an A/B testing approach. The main goal is to determine whether the new design leads to improvements in user engagement, completion rates, and overall user experience compared to the old design.
+This project evaluates the effectiveness of a new user interface (UI) design implemented by an anonymous financial services company, using an A/B testing approach. The main goal is to determine whether the new design leads to improvements in user engagement, completion rates, and overall user experience compared to the old design.
 
 ## Project Components
 
@@ -36,7 +36,7 @@ This project evaluates the effectiveness of a new user interface (UI) design imp
 - Testing for completion rate increase exceeding a predefined threshold.
 - Assessing group distribution equality between variation groups.
 
-### 6. Experiment Evaluation
+### 6. Conclusions and Experiment Evaluation
 
 - Evaluating the experiment's structure, randomization, and duration.
 - Providing insights into the reliability and validity of the experiment results.
