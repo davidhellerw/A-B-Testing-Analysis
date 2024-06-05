@@ -40,3 +40,12 @@ This project evaluates the effectiveness of a new user interface (UI) design imp
 
 - Evaluating the experiment's structure, randomization, and duration.
 - Providing insights into the reliability and validity of the experiment results.
+
+## Python Libraries Used
+
+-pandas
+-numpy
+-matplotlib
+-seaborn
+-scipy
+-statsmodels
