@@ -1,10 +1,11 @@
-# A/B Testing Analysis: User Experience Improvement
-
-Datasets can be found here: https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project
+# A/B Testing Analysis: Extracting Insights and Drawing Conclusions
 
 ## Project Overview
 
-This project evaluates the effectiveness of a new user interface (UI) design implemented by an anonymous financial services company, using an A/B testing approach. The main goal is to determine whether the new design leads to improvements in user engagement, completion rates, and overall user experience compared to the old design.
+Welcome to the A/B Testing Project! This project delves into the realm of statistical analysis and experimentation, aiming to provide actionable insights into the efficacy of a new design variant compared to an existing one. By employing rigorous statistical methods, we seek to discern whether the proposed changes lead to meaningful improvements in user engagement, completion rates, and overall user experience.
+
+## Datasets 
+Datasets can be found here: https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project
 
 ## Project Components
 
@@ -40,6 +41,10 @@ This project evaluates the effectiveness of a new user interface (UI) design imp
 
 - Evaluating the experiment's structure, randomization, and duration.
 - Providing insights into the reliability and validity of the experiment results.
+
+## Project Structure
+
+- Analysis.ipynb: Jupyter Notebook containing the Python code for data preparation, analysis, visualization, hypothesis testing, and experiment evaluation.
 
 ## Python Libraries Used
 
