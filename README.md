@@ -1,6 +1,6 @@
 # A/B Testing Analysis: User Experience Improvement
 
-## Datasets can be found here: [https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project]
+Datasets can be found here: https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project
 
 ## Project Overview
 
