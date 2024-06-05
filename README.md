@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the A/B Testing Project! This project delves into the realm of statistical analysis and experimentation, aiming to provide actionable insights into the efficacy of a new design variant compared to an existing one. By employing rigorous statistical methods, we seek to discern whether the proposed changes lead to meaningful improvements in user engagement, completion rates, and overall user experience.
+The A/B Testing Project aims to explore and analyze the effectiveness of a new design variant compared to an existing one through rigorous statistical analysis and experimentation. By leveraging user interaction data, the project seeks to uncover actionable insights into various metrics such as completion rates, time spent on different steps, error rates, and step abandonment rates. Through a structured approach encompassing data preparation, exploration, analysis, and statistical testing, the project aims to determine whether the proposed design changes lead to meaningful improvements in user engagement and overall user experience. With the aid of Python libraries such as pandas, numpy, matplotlib, seaborn, scipy, and statsmodels, the project navigates through the stages of data preprocessing, visualization, hypothesis testing, and experiment evaluation, ultimately drawing conclusions about the efficacy of the new design variant and providing valuable insights for decision-making.
 
 ## Datasets 
 Datasets can be found here: https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project
