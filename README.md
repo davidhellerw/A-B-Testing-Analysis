@@ -43,9 +43,9 @@ This project evaluates the effectiveness of a new user interface (UI) design imp
 
 ## Python Libraries Used
 
--pandas
--numpy
--matplotlib
--seaborn
--scipy
--statsmodels
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
+- statsmodels
