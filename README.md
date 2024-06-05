@@ -1,5 +1,7 @@
 # A/B Testing Analysis: User Experience Improvement
 
+## Datasets can be found here: [https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project]
+
 ## Project Overview
 
 This project evaluates the effectiveness of a new user interface (UI) design implemented by Vanguard, a financial services company, using an A/B testing approach. The main goal is to determine whether the new design leads to improvements in user engagement, completion rates, and overall user experience compared to the old design.
