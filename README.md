@@ -54,3 +54,6 @@ Datasets can be found here: https://github.com/data-bootcamp-v4/lessons/tree/mai
 - seaborn
 - scipy
 - statsmodels
+
+## Presentation
+Link to Presentation: https://1drv.ms/p/s!Ao0pVqWLGOAwl2XkqSWOgRAEEeGf 
